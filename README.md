@@ -1,8 +1,8 @@
 # Welcome to My Research Archive!
 
-This repository contains my research achievements, including:
+This repository contains my research achievements, showcasing my academic work and contributions:
 
-- **Research list**: A comprehensive overview of my research contributions in PDF and LaTeX formats.
+- **Research list**: A comprehensive overview of my research contributions in PDF and LaTeX formats. This document highlights my publications, projects, and academic achievements.
 
 If you're interested in my work, feel free to explore the files. The **[Research list.pdf](https://github.com/dgy924143558/GYOUseki/blob/main/Research%20list.pdf)** provides a detailed summary of my publications and projects.
 
